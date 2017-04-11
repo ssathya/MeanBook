@@ -1,0 +1,6 @@
+{
+    "AppVar": {
+        "dbConnectionStr": "mongodb://<userName>:<password>@<hostname>:<portNumber>/<databaseName>",
+        "appPort": "1234"
+    }
+}
